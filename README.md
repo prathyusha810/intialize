@@ -1,1 +1,2 @@
 # intialize
+linux ls
